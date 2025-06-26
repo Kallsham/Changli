@@ -18,5 +18,5 @@ build = { command = "cargo install worker-build && worker-build --dev" }
 
 [vars]
 UUID = "8d103ba9-d7a4-47aa-bde3-185e5dd43f38"
-MAIN_PAGE_URL = "https://raw.githubusercontent.com/Mayumiwandi/Changli/refs/heads/main/web/index.html"
-SUB_PAGE_URL = "https://raw.githubusercontent.com/Mayumiwandi/Changli/refs/heads/main/web/sub.html"
+MAIN_PAGE_URL = "https://raw.githubusercontent.com/Kallsham/Changli/refs/heads/main/web/index.html"
+SUB_PAGE_URL = "https://raw.githubusercontent.com/Kallsham/Changli/refs/heads/main/web/sub.html"
